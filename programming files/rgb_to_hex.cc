@@ -1,4 +1,4 @@
-// aphayes, bugs introduced: #include <hello>, std:stringstream ss, return ss.str())
+// aphayes, bugs introduced
 
 #include <iostream>
 #include <sstream>
