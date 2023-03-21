@@ -4,7 +4,7 @@
 
 int main()
 {
-    a = 0, b = 1;
+    int a = 0, b = 1;
     int sum_even = 0;
     // fibonacci sequence stops at 4 million
     while (b > 4000000) {
