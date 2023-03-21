@@ -1,4 +1,4 @@
-# Aphayes, bugs: added another parameter to function x, added return of 'scubadiver', and changed g parameter from 0 to 1000.
+# Aphayes, bugs
 
 def rgb_to_hex(r, g, b, x):
     r = max(0, min(255, r))
